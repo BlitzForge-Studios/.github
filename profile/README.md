@@ -15,8 +15,6 @@ At BlitzForge Studios, we combine innovation and storytelling to bring unique ga
 We are bringing back the beloved classic *Dungeon Blitz* with a modern twist. Expect enhanced graphics, updated gameplay mechanics, and fresh content that stays true to the original spirit while introducing exciting new features.
 
 - **Status**: In Development
-- **New Features**: Redesigned dungeons, expanded character customization, and multiplayer enhancements.
-- **Follow Updates**: Stay tuned for development diaries, behind-the-scenes insights, and release details!
 
 ## 🤝 Join the Adventure
 We are always looking for talented developers, designers, and storytellers to join our quest. Interested in collaborating? Let us know!
